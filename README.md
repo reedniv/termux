@@ -1,0 +1,2 @@
+# termux
+Directory all termux
