@@ -5,4 +5,3 @@ At this time i will share a file in here, and solution about server Forbidden fr
 **1. First ,** use nano if you have or no haven't download file nano
 **2. Second,** find folder /data/data/com.termux/files/usr/apt - filename : sources.list and replace link with my file
 **3. Three,** find folder /data/data/com.termux/files/usr/apt/sources.list.d - filename : science.list & game.list and replace link with my file
-####Done###
