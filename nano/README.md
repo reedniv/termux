@@ -2,4 +2,4 @@
 
 Simple just write on terminal :
 
-`apt install ./namefile.deb`
+```apt install ./namefile.deb```
